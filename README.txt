@@ -33,7 +33,7 @@ Our Insights:
 	* The soppressata pizza contributes to minimum total quantity sold.
 	* The chicken pesto pizza contributes to minimum total orders.
 
-Feel free to download the project files from theis link: https://github.com/ahmeds1995/bakery_dashboard
+Feel free to download the project files from theis link: https://github.com/ahmeds1995/pizza_sales
 and i would br appreciate to recieve your constructive feedbacks.
 
 
